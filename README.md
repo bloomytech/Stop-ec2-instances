@@ -26,7 +26,7 @@ Lambda function to stop  ec2 instances
      1. Navigate to Lambda on the management console
      2. Follow the outlined steps below
      3. ![266688772-0c16bb73-c4e2-4d0d-94a3-d7eb6a7b2468](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/bf897d6f-d51a-43be-94b1-c178b03c6f37)
-     4. ![266688789-0e1249d5-b472-46bb-8f8f-9cfffaed63e9](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/cb5a9985-9d60-4552-8ad8-decc6d382b9b
+     4. ![266688789-0e1249d5-b472-46bb-8f8f-9cfffaed63e9](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/e2f3c913-36fd-4131-bdbd-068e17f34f80)
      5. Remove the default function and paste stop-ec2-instance-py python code
      6. ![lambda function](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/dc381107-2d1d-4358-9bda-4ff6c8717e92)
      7. Click on "Deploy" to save the changes
