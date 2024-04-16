@@ -14,6 +14,6 @@ Lambda function to stop  ec2 instances
  3. Select services as Ec2.
  4. And Actions are DescribeInstances, StopInstances
  5. ![266684935-adae28aa-c4e9-4ea2-b796-4c01c1d0f99d](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/25609a3f-66a5-4b21-bc86-29ba4d1b0c0b)
- 6. ![266685226-ca8dc00e-4931-4646-a984-f251d83ebf6a](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/ce815dbb-fe16-48ee-9ecc-8d016d265997)
+ 6. ![stop instance](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/771b6c11-8ce9-43d9-b941-439bebb7ef4d)
  7. ![266685243-68aa30f9-1a1a-4631-ac01-a98ba3ac05e9](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/e4b55854-5e59-4697-bc7b-194debb4512f)
  8. ![266685318-8543cf1c-26d3-41dd-9121-99015183f760](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/05e1fd3d-14e7-4db0-9627-e7c2e21e0c45)
