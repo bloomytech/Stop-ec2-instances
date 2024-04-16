@@ -1,4 +1,4 @@
-![266694225-1d11c5b3-a734-470c-bdf5-ab29d6f3f14c](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/4bdca5b4-6cc7-4a4b-a25f-996e58e9a761)![266693720-a932c63f-8a3b-46aa-ade2-ed0d9dd8cdac](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/1b8499e1-83fc-463f-9cf0-94231c0a935d) Stop-ec2-instances
+ Stop-ec2-instances
 Lambda function to stop  ec2 instances
 ![266763781-287063a4-964a-4f8b-b88e-25535b7f4691](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/4d616088-3e4b-4e0b-8c25-50105cb966c4)
 **Steps:**
@@ -61,12 +61,10 @@ Lambda function to stop  ec2 instances
 
       12. Choose your Lambda function for Stop-ec2-instance
       13. Click "Next"
-     
-      14. ![266694225-1d11c5b3-a734-470c-bdf5-ab29d6f3f14c](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/c292954c-bf71-49d6-b8e2-97ba8cd93192)
+      14.  Select "NONE" from the action after schedule completion
+      15.![266694241-ea584d14-d997-46d7-b1ec-f07cb88a9ede](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/b22ed3f6-1949-42d1-805d-42774532fe69)
+      16. ![266694270-b76d4878-b391-4d9c-9b12-07b1b1ebfb5d](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/37487065-8390-42d7-8733-8855403caddc)
 
-      15.![266694241-ea584d14-d997-46d7-b1ec-f07cb88a9ede](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/f4973706-6dcf-428c-a425-39bf10b7f530)
-
-      16.![266694270-b76d4878-b391-4d9c-9b12-07b1b1ebfb5d](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/5144a3be-5d09-4d8f-ba2a-81806e507762)
 
       
 We have successfully cretaed a Lambda function that will be triggered by CloudWatch EventBridge schedule to shut down running ec2 instances by 12:00am everyday.
