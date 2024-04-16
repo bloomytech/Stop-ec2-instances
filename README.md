@@ -1,6 +1,8 @@
- Stop-ec2-instances
- 
-Lambda function to stop  ec2 instances
+**SERVERLESS EC2 INSTANCE SHUT DOWN SCHEDULER FOR ORGANISATION WORKING HOURS**
+
+** Scenario:**: In some companies, there is no need to run EC2 instances round the clock. they require instances to operate during specific time periods. 
+ To address this, We will implement Lambda function for stopping the instances and set up cloudwatch events that will triger the lambda fucntion at exactly 12:00.
+
    ![266763781-287063a4-964a-4f8b-b88e-25535b7f4691](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/4d616088-3e4b-4e0b-8c25-50105cb966c4)
 **Steps:**
 **Step 1: **
