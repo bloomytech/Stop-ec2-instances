@@ -15,7 +15,7 @@ Lambda function to stop  ec2 instances
  4. And Actions are DescribeInstances, StopInstances
  5. ![266685226-ca8dc00e-4931-4646-a984-f251d83ebf6a](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/bc57141c-17ff-4ed6-a650-0ceb70481ee6)
  6. ![stop instance](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/771b6c11-8ce9-43d9-b941-439bebb7ef4d)
- 7. 7.![266685318-8543cf1c-26d3-41dd-9121-99015183f760](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/679c00f6-ff57-4542-87e8-8a1aee085989)
+ 7. ![266685318-8543cf1c-26d3-41dd-9121-99015183f760](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/679c00f6-ff57-4542-87e8-8a1aee085989) NB: change the policy name to stop-ec2-instance and the description to stop ec2 running instances
  8. ![266685384-78b57e8c-b8b5-470e-9af1-e7789b09f522](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/c6fa773a-885f-4bb2-a2a3-5678c25db4a5)
  9. ![266685404-1a1da31e-d564-4264-9b4e-fdb5438ed705](https://github.com/bloomytech/Stop-ec2-instances/assets/142004482/46fdea5e-0157-4250-8e1d-39f859f6314e)
  10. Now that we have created a policy for stopping instances, we are going to create a Lambda function with its role and attach the policy to that role.
